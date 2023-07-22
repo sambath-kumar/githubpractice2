@@ -14,5 +14,10 @@
 ### git remote add origin https://github.com/sambath-kumar/githubpractice2.git  
 ### git push origin main  --  push it into github main
 ### git diff   --   show the difference (press q for exit)
+### git branch branch_name  --  create new branch
+### git branch   --   list all branches
+### git checkout branch_name  --  switch into new branch
+
+
 
 
