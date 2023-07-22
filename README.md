@@ -18,6 +18,7 @@
 ### git branch   --   list all branches
 ### git checkout branch_name  --  switch into new branch
 ### add necessary file to work on 
+### git merge new_branch  --  merge new_branch into old_branch or vice-versa
 
 
 
