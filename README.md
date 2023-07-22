@@ -17,6 +17,7 @@
 ### git branch branch_name  --  create new branch
 ### git branch   --   list all branches
 ### git checkout branch_name  --  switch into new branch
+### add necessary file to work on 
 
 
 
