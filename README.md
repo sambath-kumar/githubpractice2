@@ -15,11 +15,14 @@
 ### git remote add origin https://github.com/sambath-kumar/githubpractice2.git  
 ### git push origin main  --  push it into github main
 ### git diff   --   show the difference (press q for exit)
-### git branch branch_name  --  create new branch
+### git branch new_branch  --  create new branch
 ### git branch   --   list all branches
 ### git checkout branch_name  --  switch into new branch
-### add necessary file to work on 
-### git merge new_branch  --  merge new_branch into old_branch or vice-versa
+### create necessary files or changes to work on (in the new branch) 
+### git checkout main --   switch into main branch
+### git merge new_branch  --  merge new_branch into main_branch or vice-versa
+### git branch -d new_branch   --  delete new_branch
+### git branch   --  check list of branches
 ### git clone source_github  --  clone github repository to the destination 
 ### (before that, change current directory in the cmd using cd clone_folder)
 
