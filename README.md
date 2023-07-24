@@ -1,5 +1,5 @@
 # Github practice 2
-### Prepared by Sambath Kumar K
+### Prepared by Mr. Sambath Kumar K
 ### Practice from the instructions 
 ### Procedure is written one by one
 
