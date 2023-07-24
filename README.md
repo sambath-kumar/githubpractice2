@@ -1,8 +1,7 @@
 # Github practice 2
-### Prepared by Mr. Sambath Kumar K
+## Prepared by Mr. Sambath Kumar K
 ### Practice from the instructions 
-### Procedure is written one by one
-
+---------------------------------------------------------------------------------
 ### git init  --  Initialized empty Git repo
 ### git config --global user.email "you@example.com"  --  setup
 ### git config --global user.name "Your Name"   --  setup
@@ -25,7 +24,6 @@
 ### git branch   --  check list of branches
 ### git clone source_github  --  clone github repository to the destination 
 ### (before that, change current directory in the cmd using cd clone_folder)
-
 
 
 
