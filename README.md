@@ -1,4 +1,5 @@
 # Github practice 2
+### Prepared by Sambath Kumar K
 ### Practice from the instructions 
 ### Procedure is written one by one
 
@@ -19,6 +20,9 @@
 ### git checkout branch_name  --  switch into new branch
 ### add necessary file to work on 
 ### git merge new_branch  --  merge new_branch into old_branch or vice-versa
+### git clone source_github  --  clone github repository to the destination 
+### (before change directory in the cmd)
+
 
 
 
