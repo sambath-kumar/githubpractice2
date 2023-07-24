@@ -24,7 +24,7 @@
 ### git branch   --  check list of branches
 ### git clone source_github  --  clone github repository to the destination 
 ### (before that, change current directory in the cmd using cd clone_folder)
-
+### git pull  --  pulled from remote to current branch
 
 
 
